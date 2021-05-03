@@ -10,7 +10,7 @@ public class worker {
     private int salary;
     private int age;
 
-    public Worker(String name, String surname, String position, String email, int number, int salary, int age) {
+    public void Worker(String name, String surname, String position, String email, int number, int salary, int age) {
         this.name=name;
         this.surname=surname;
         this.position=position;

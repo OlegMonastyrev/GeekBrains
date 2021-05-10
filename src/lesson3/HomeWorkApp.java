@@ -1,5 +1,7 @@
 package lesson3;
 
+import java.util.Random;
+
 public class HomeWorkApp {
 
     public static void main(String[] args) {

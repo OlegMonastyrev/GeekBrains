@@ -1,8 +1,5 @@
 package lesson5;
 
-import javafx.concurrent.Worker;
-
-
 public class HomeWorkApp {
 
     private static final int AGE=40;
